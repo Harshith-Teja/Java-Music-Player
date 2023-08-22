@@ -13,3 +13,4 @@ provides a percentage match in music taste from one user to all other users conn
 server. A user can use it as a starter for a conversation with someone who is completely new to
 them.
 
+View the working of the music player here - https://drive.google.com/file/d/1xYOejNuz1JjWnppOP-hnBX9O0_MFhEua/view?usp=drive_link
